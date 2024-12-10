@@ -1,4 +1,6 @@
-Relógio Analógico
+### Relógio Analógico
+![image](https://github.com/user-attachments/assets/c3c25e8d-7093-4fa4-b7e9-de19bb2cd274)
+
 Este projeto é um relógio analógico simples que exibe a hora atual do computador em tempo real. Ele é desenvolvido com HTML, CSS e JavaScript para demonstrar como criar um relógio com ponteiros dinâmicos.
 
 Tecnologias Utilizadas
